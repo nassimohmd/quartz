@@ -1,3 +1,3 @@
 ---
-title:
+title: Giants and Contributions
 ---
